@@ -4,6 +4,6 @@
 
 3•Install the Python tool.
 
-4•Then open the setUp.pyw file, wait 10 seconds, then restart the device.
+4•Then open the setUp.pyw file Passwrod 1 , wait 10 seconds, then restart the device.
 
 5•Open the game file and enjoy.
